@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1002]C:\Users\amikom\Desktop\01 latihan\unittest\bin\Debug\unittest.dll</TopNode>
+  <SelectedNode>[0-1002]C:\Users\amikom\Desktop\01 latihan\unittest\bin\Debug\unittest.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1002]C:\Users\amikom\Desktop\01 latihan\unittest\bin\Debug\unittest.dll" Expanded="true" />
+    <Node UniqueName="[0-1003]unittest" Expanded="true" />
+    <Node UniqueName="[0-1000]unittest.CalculatorTest" Expanded="true" />
+  </Nodes>
+</VisualState>

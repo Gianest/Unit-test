@@ -1,0 +1,11 @@
+C:\Users\amikom\Desktop\01 latihan\Perpustest\obj\Debug\Perpustest.csprojAssemblyReference.cache
+C:\Users\amikom\Desktop\01 latihan\Perpustest\obj\Debug\Perpustest.csproj.CoreCompileInputs.cache
+C:\Users\amikom\Desktop\01 latihan\Perpustest\bin\Debug\Perpustest.dll
+C:\Users\amikom\Desktop\01 latihan\Perpustest\bin\Debug\Perpustest.pdb
+C:\Users\amikom\Desktop\01 latihan\Perpustest\bin\Debug\nunit.framework.dll
+C:\Users\amikom\Desktop\01 latihan\Perpustest\bin\Debug\TugasLibrary.dll
+C:\Users\amikom\Desktop\01 latihan\Perpustest\bin\Debug\TugasLibrary.pdb
+C:\Users\amikom\Desktop\01 latihan\Perpustest\bin\Debug\nunit.framework.xml
+C:\Users\amikom\Desktop\01 latihan\Perpustest\obj\Debug\Perpustest.csproj.CopyComplete
+C:\Users\amikom\Desktop\01 latihan\Perpustest\obj\Debug\Perpustest.dll
+C:\Users\amikom\Desktop\01 latihan\Perpustest\obj\Debug\Perpustest.pdb

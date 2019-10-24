@@ -1,0 +1,10 @@
+C:\Users\amikom\Desktop\01 latihan\Calctest\obj\Debug\Calctest.csprojAssemblyReference.cache
+C:\Users\amikom\Desktop\01 latihan\Calctest\obj\Debug\Calctest.csproj.CoreCompileInputs.cache
+C:\Users\amikom\Desktop\01 latihan\Calctest\bin\Debug\Calctest.exe.config
+C:\Users\amikom\Desktop\01 latihan\Calctest\bin\Debug\Calctest.exe
+C:\Users\amikom\Desktop\01 latihan\Calctest\bin\Debug\Calctest.pdb
+C:\Users\amikom\Desktop\01 latihan\Calctest\bin\Debug\CalculatorMachine.dll
+C:\Users\amikom\Desktop\01 latihan\Calctest\bin\Debug\CalculatorMachine.pdb
+C:\Users\amikom\Desktop\01 latihan\Calctest\obj\Debug\Calctest.csproj.CopyComplete
+C:\Users\amikom\Desktop\01 latihan\Calctest\obj\Debug\Calctest.exe
+C:\Users\amikom\Desktop\01 latihan\Calctest\obj\Debug\Calctest.pdb

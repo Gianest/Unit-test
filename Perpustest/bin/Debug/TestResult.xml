@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\amikom\Desktop\01 latihan\Perpustest\bin\Debug\Perpustest.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2019-10-17" time="12:03:25">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\amikom\Desktop\tools-testing\NUnit" machine-name="KOMPUTER-63" user="amikom" user-domain="KOMPUTER-63" />
+  <culture-info current-culture="id-ID" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\amikom\Desktop\01 latihan\Perpustest\bin\Debug\Perpustest.dll" executed="True" result="Success" success="True" time="0.004" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Perpustest" executed="True" result="Success" success="True" time="0.003" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="Perpusunittest" executed="True" result="Success" success="True" time="0.003" asserts="0">
+            <results>
+              <test-case name="Perpustest.Perpusunittest.DayTest" executed="True" result="Success" success="True" time="0.000" asserts="6" />
+              <test-case name="Perpustest.Perpusunittest.UserTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

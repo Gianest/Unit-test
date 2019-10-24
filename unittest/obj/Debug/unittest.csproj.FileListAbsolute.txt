@@ -1,0 +1,11 @@
+C:\Users\amikom\Desktop\01 latihan\unittest\bin\Debug\unittest.dll
+C:\Users\amikom\Desktop\01 latihan\unittest\bin\Debug\unittest.pdb
+C:\Users\amikom\Desktop\01 latihan\unittest\bin\Debug\CalculatorMachine.dll
+C:\Users\amikom\Desktop\01 latihan\unittest\bin\Debug\nunit.framework.dll
+C:\Users\amikom\Desktop\01 latihan\unittest\bin\Debug\CalculatorMachine.pdb
+C:\Users\amikom\Desktop\01 latihan\unittest\bin\Debug\nunit.framework.xml
+C:\Users\amikom\Desktop\01 latihan\unittest\obj\Debug\unittest.csprojAssemblyReference.cache
+C:\Users\amikom\Desktop\01 latihan\unittest\obj\Debug\unittest.csproj.CoreCompileInputs.cache
+C:\Users\amikom\Desktop\01 latihan\unittest\obj\Debug\unittest.csproj.CopyComplete
+C:\Users\amikom\Desktop\01 latihan\unittest\obj\Debug\unittest.dll
+C:\Users\amikom\Desktop\01 latihan\unittest\obj\Debug\unittest.pdb
